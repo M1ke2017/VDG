@@ -1,0 +1,26 @@
+
+[theme]
+base = "light"
+
+# Kolor główny — szałwiowa zieleń
+primaryColor = "#70977D"
+
+# Jasne, neutralne tło
+backgroundColor = "#F7F9F8"
+
+# Tło pól, paneli i kart
+secondaryBackgroundColor = "#E9EDEB"
+
+# Grafitowy tekst
+textColor = "#101412"
+
+# Delikatne obramowania
+borderColor = "#D5DDDA"
+
+# Styl kontrolek
+showWidgetBorder = true
+baseRadius = "medium"
+font = "sans serif"
+
+[server]
+maxUploadSize = 8
